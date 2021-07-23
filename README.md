@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science, UX design and full stack development
 - 🌱 I’m currently learning all of that xD
 - 💞️ I’m looking to collaborate on a challeging and/or interesting project. I would like to create something that has a big social impact someday.
-- 📫 How to reach me ... just email me I guess, or message me on my instagram @melialeval.
+- 📫 How to reach me ... just email me I guess, or dm me on my instagram @melialeval.
 
 <!---
 melialeval-netizen/melialeval-netizen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
